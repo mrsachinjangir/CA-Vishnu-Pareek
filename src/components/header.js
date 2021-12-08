@@ -27,18 +27,18 @@ export default function Header(){
       <span >  cavishnupareek@gmail.com</span> </p>
       <p className="mobileright"><FontAwesomeIcon className="phoneicon"
     icon="phone"
-  />  <span>+91-9887629613</span></p> </div> <div className="right">Connect With Us <a href="https://www.youtube.com" target="_blank"
+  />  <span>+91-9887629613</span></p> </div> <div className="right">Connect With Us <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer"
   className="social">
   <FontAwesomeIcon icon={faYoutube} size="1x" />
 </a>
-<a href="https://www.facebook.com"
+<a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"
   className="social">
   <FontAwesomeIcon icon={faFacebook} size="1x" />
 </a>
-<a href="https://www.twitter.com" className="social">
+<a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer" className="social">
   <FontAwesomeIcon icon={faTwitter} size="1x" />
 </a>
-<a href="https://www.instagram.com"
+<a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer"
   className="social">
   <FontAwesomeIcon icon={faInstagram} size="1x" />
 </a></div>

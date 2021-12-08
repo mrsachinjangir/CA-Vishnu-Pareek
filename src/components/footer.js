@@ -1,4 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {Link} from "react-router-dom"
 export default function Footer() {
   return (
     <>
@@ -8,10 +9,10 @@ export default function Footer() {
             <div className="footerdiv">
               <h3>Quik Links</h3>
               <ul>
-                <li> <i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>Home</li>
-                <li><i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>About Us</li>
-                <li><i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>Contact Us</li>
-                <li><i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>Service Offered</li>
+              <Link to="/" className="menubar">  <li> <i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>Home</li> </Link>
+              <Link to='/about'className="menubar">   <li><i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>About Us</li></Link>
+              <Link to="/contact" className="menubar"> <li><i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>Contact Us</li></Link>
+              <Link to="/service" className="menubar"> <li><i><FontAwesomeIcon icon="angle-right" className="mailicon" id="angleicon" /></i>Service Offered</li></Link>
               </ul>
             </div>
             <div className="footerdiv">
@@ -36,11 +37,11 @@ export default function Footer() {
             <div className="footerdiv">
               <h3>Connect With Us</h3>
               <ul>
-                <li>
-                <i><FontAwesomeIcon className="mailicon" id="footericon" icon="map-marker-alt" /></i>
+              <a href="https://goo.gl/maps/DzknrzdaXhzL7fZx5" className="menubar" target="_blank" rel="noopener noreferrer" > <li>
+                 <i><FontAwesomeIcon className="mailicon" id="footericon" icon="map-marker-alt" /></i>
                  <span>Near Sunil Book Depot,
                   <br /> Mandawa Mod,Jhunjhunu(Raj.) 333001</span> 
-                </li>
+                </li></a>
                 <li>
                   
                   <FontAwesomeIcon className="phoneicon" id="footericon" icon="phone" />
@@ -56,7 +57,7 @@ export default function Footer() {
         </div>
         <div className="footerend">
           Designed & Developed by :{" "}
-          <a href="https://linktr.ee/mrsachinjangir">Mr Sachin Jangir</a>
+          <a href="https://linktr.ee/mrsachinjangir" >Mr Sachin Jangir</a>
         </div>
       </footer>
     </>
