@@ -24,11 +24,11 @@ function App() {
           </div>
           <div className="aboutinto">
             <div className="aboutheading">
-              <h2>Welcome to CA Vishnu Pareek & Co </h2>
+              <h2>Welcome to Vishnu Pareek & Co </h2>
             </div>
             <div className="aboutsub">
               <p>
-                <span>CA Vishnu Pareek & Co</span> was established in the year
+                <span>Vishnu Pareek & Co</span> was established in the year
                 2019 with the core objective of providing professional expertise
                 to its esteemed clients. The firm has come a long way in
                 imparting knowledge and assistance to its clients. The firm

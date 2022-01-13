@@ -8,8 +8,8 @@ import React from "react";
 </div>
 <div className="about">
     <div className="welcomeabout">
-        <h3>About CA Vishnu Pareek & Co</h3>
-        <p>All the team members of CA Vishnu Pareek & Co have a strong academic background, teamwork abilities, expertise and progressive vision to cater varied needs of its vast clients in the best possible manner.
+        <h3>About Vishnu Pareek & Co</h3>
+        <p>All the team members of Vishnu Pareek & Co have a strong academic background, teamwork abilities, expertise and progressive vision to cater varied needs of its vast clients in the best possible manner.
 The depth of expertise and breadth of collective knowledge of its team members has inculcated in the firm the unparallel ability to connect with clients concerns and goals.</p>
    <h4>OBJECTIVE</h4>
    <ul><li>
