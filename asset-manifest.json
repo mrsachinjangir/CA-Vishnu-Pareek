@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CA-Vishnu-Pareek/static/css/main.273c586e.chunk.css",
+    "main.js": "/CA-Vishnu-Pareek/static/js/main.cd75ad0d.chunk.js",
+    "main.js.map": "/CA-Vishnu-Pareek/static/js/main.cd75ad0d.chunk.js.map",
+    "runtime-main.js": "/CA-Vishnu-Pareek/static/js/runtime-main.c3d507e5.js",
+    "runtime-main.js.map": "/CA-Vishnu-Pareek/static/js/runtime-main.c3d507e5.js.map",
+    "static/css/2.f10f449b.chunk.css": "/CA-Vishnu-Pareek/static/css/2.f10f449b.chunk.css",
+    "static/js/2.ee9bc68d.chunk.js": "/CA-Vishnu-Pareek/static/js/2.ee9bc68d.chunk.js",
+    "static/js/2.ee9bc68d.chunk.js.map": "/CA-Vishnu-Pareek/static/js/2.ee9bc68d.chunk.js.map",
+    "index.html": "/CA-Vishnu-Pareek/index.html",
+    "static/css/2.f10f449b.chunk.css.map": "/CA-Vishnu-Pareek/static/css/2.f10f449b.chunk.css.map",
+    "static/css/main.273c586e.chunk.css.map": "/CA-Vishnu-Pareek/static/css/main.273c586e.chunk.css.map",
+    "static/js/2.ee9bc68d.chunk.js.LICENSE.txt": "/CA-Vishnu-Pareek/static/js/2.ee9bc68d.chunk.js.LICENSE.txt",
+    "static/media/CA-Logo.9d3407cc.png": "/CA-Vishnu-Pareek/static/media/CA-Logo.9d3407cc.png",
+    "static/media/banner-1.9de3cc0d.jpg": "/CA-Vishnu-Pareek/static/media/banner-1.9de3cc0d.jpg",
+    "static/media/banner-2.51e1c9b4.jpg": "/CA-Vishnu-Pareek/static/media/banner-2.51e1c9b4.jpg",
+    "static/media/banner.ab2cadba.jpg": "/CA-Vishnu-Pareek/static/media/banner.ab2cadba.jpg",
+    "static/media/hm-about.3b955aeb.jpg": "/CA-Vishnu-Pareek/static/media/hm-about.3b955aeb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3d507e5.js",
+    "static/css/2.f10f449b.chunk.css",
+    "static/js/2.ee9bc68d.chunk.js",
+    "static/css/main.273c586e.chunk.css",
+    "static/js/main.cd75ad0d.chunk.js"
+  ]
+}
